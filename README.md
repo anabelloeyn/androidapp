@@ -8,7 +8,7 @@ Git-Befehle
 git clone git@github.com:anabelloeyn/androidapp.git`
 
 2. Speichern
-`git commit -am "Cleverer Kommentar"`
+`git add . && git commit -am "Cleverer Kommentar"`
 
 3. Veröffentlichen
 `git push`
